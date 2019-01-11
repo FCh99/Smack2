@@ -39,6 +39,7 @@ class MainActivity : AppCompatActivity() {
     }
 
     fun loginBtnNavClicked (view: View) {
+        
 
     }
 
